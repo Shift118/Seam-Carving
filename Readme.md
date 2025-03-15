@@ -18,7 +18,7 @@ In this project, we implemented the seam carving algorithm to resize images by r
 
 Below is an image illustrating the difference between Version 1 and Version 2. Version 1 does not use JIT (Just-In-Time) compilation, while Version 2 includes JIT for performance optimization.
 
-![Comparison between Version 1 and Version 2](path/to/comparison_image.jpg)
+![Comparison between Version 1 and Version 2](path/to/comparison_image.png)
 
 ## 🛠️ How to Run
 
