@@ -1,0 +1,10 @@
+# Ignore the Project.rar file
+Project.rar
+
+# Ignore the app directories
+/app1/
+/app2/
+/app3/
+
+# Ignore the virtual environment directory
+/.venv/
