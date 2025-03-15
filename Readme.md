@@ -10,7 +10,7 @@ In this project, we implemented the seam carving algorithm to resize images by r
 
 - **Version1.py**: Initial implementation of the seam carving algorithm.
 - **Version2.py**: Optimized version with additional features.
-- **Version3.py**: Final version with further optimizations and enhancements.
+- **Version3.py**: Final version with further optimizations, enhancements and Horizontal Seaming.
 - **.gitignore**: Specifies files and directories to be ignored by Git.
 - **Readme.md**: This file, providing an overview of the project.
 
